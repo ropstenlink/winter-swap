@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e56c3e8b3c7fa93e780653ee18d46963",
+    "revision": "3ddca6e71080dfc19b7f903db5e5ab97",
     "url": "/winter-swap/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/winter-swap/static/js/9.c2a152b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b0cb429dca0c8df69cd",
-    "url": "/winter-swap/static/js/main.a8fddfb2.chunk.js"
+    "revision": "670c2a163e3be8e461ca",
+    "url": "/winter-swap/static/js/main.0204c038.chunk.js"
   },
   {
     "revision": "2a28c319d5c7c8a73cd4",
